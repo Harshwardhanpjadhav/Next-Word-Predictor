@@ -26,7 +26,7 @@ Key Features:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Next-Word-Predictor.git
+   git clone https://github.com/Harshwardhanpjadhav/Next-Word-Predictor.git
    cd Next-Word-Predictor
    ```
 
